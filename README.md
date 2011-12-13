@@ -29,3 +29,8 @@ Usage
 ### Settings
 
 	UrlAuthenticator.default_secre = "your_secret"
+
+License
+-------
+
+[MIT License](https://github.com/neaf/url_authenticator/blob/master/MIT-LICENSE)
