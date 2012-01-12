@@ -28,7 +28,7 @@ Usage
 
 ### Settings
 
-	UrlAuthenticator.default_secre = "your_secret"
+	UrlAuthenticator.default_secret = "your_secret"
 
 License
 -------
